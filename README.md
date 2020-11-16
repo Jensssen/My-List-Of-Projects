@@ -1,2 +1,14 @@
 # My-List-Of-Projects
-This Repository Lists all Projects that I worked on in the past
+This Repository lists all Projects that I worked on in the past.
+
+# List of Projects
+
+# 2017
+- [Three.js Demos](https://github.com/Jensssen/Three.js)
+# 2020
+- [Rock Paper Scissor Classification](https://github.com/Jensssen/Image-Classification-App)
+  - A image based classification app that uses AWS Sagemaker as an inference backend.
+- [Machine Learning Part of the Rock Paper Scissor Classification Project](https://github.com/Jensssen/rock_paper_scissor_classification)
+  - Codebase for training and fine tuning a MobileNet_V2 based image classification model for the Rock Paper Scissor Project
+- [SpotFoxx App](https://github.com/Jensssen/SpotFoxx)
+  - A native Java based Android app that uses the Spotify Remote API, the Google Maps APi and Firebase to link Spotify Songs and Playlists with real world locations. 
