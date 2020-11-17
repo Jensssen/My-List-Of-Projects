@@ -1,5 +1,5 @@
 # My-List-Of-Projects
-This Repository lists all Projects that I worked on in the past.
+This Repository lists all private Projects that I worked on in the past.
 
 # List of Projects
 
