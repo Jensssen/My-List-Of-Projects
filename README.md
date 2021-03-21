@@ -16,3 +16,6 @@ This Repository lists all private Projects that I worked on in the past.
 # 2021
 - [Point Cloud Labeling Tool](https://github.com/Jensssen/Pointcloud_Labeling_Tool)
   - A Point Cloud Labeling Tool that runs inside of the Browser. It has been written in JavaScript, uses Node Express as a Backend and Three.js as a 3D rendering Library. Point Cloud data can be accessed via a AWS S3 interface.
+
+- [3D-MiniNet-TF2](https://github.com/Jensssen/3D-MiniNet-TF2)
+  - A Tensorflow 2.4 portet version of the official 3D-Mini-Net Paper. The architecture achieves state of the art mIoU results on popular benchmarks such as semanticKITTI for semantic segmentation of Point Cloud data.
