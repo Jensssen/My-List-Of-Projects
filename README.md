@@ -19,3 +19,6 @@ This Repository lists all private Projects that I worked on in the past.
 
 - [3D-MiniNet-TF2](https://github.com/Jensssen/3D-MiniNet-TF2)
   - A Tensorflow 2.4 portet version of the official 3D-Mini-Net Paper. The architecture achieves state of the art mIoU results on popular benchmarks such as semanticKITTI for semantic segmentation of Point Cloud data.
+  
+- [Design Patterns](https://github.com/Jensssen/design_patterns)
+  - This Repository contains a variety of different design patterns, documented using python examples.
