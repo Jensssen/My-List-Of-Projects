@@ -22,3 +22,7 @@ This Repository lists all private Projects that I worked on in the past.
   
 - [Design Patterns](https://github.com/Jensssen/design_patterns)
   - This Repository contains a variety of different design patterns, documented using python examples.
+
+# 2022
+- [How to become a Linux PowerUser](https://github.com/Jensssen/How-to-become-a-Linux-PowerUser)
+  - This Repo contains a list of useful tools, plugins, shortcuts or workflows that make my life as a software developer and Linux advocate much easier.
